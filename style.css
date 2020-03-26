@@ -1,0 +1,56 @@
+h1
+{
+    text-align: center;
+    color: royalblue;
+    
+}
+
+body 
+{
+    padding: 20px;
+    background-color: tan;
+}
+
+#gridContainer 
+{
+    padding-bottom: 10px;
+}
+
+table 
+{   
+    background-color: white;
+    border-spacing: 1;
+}
+
+td
+ {
+    border: 1px solid black;
+    border-radius: 1px;
+    width: 10px;
+    height: 10px;
+}
+
+span 
+{
+    color: #222;
+}
+
+td.dead 
+{
+    background-color: transparent;
+}
+
+td.alive 
+{
+    background-color: red;
+    border-radius: 10px;
+}
+
+#start,
+
+{
+    padding: .75em;
+    border-radius: 5px;
+    border: none;    
+    background-color: whitesmoke;
+}
